@@ -1,0 +1,36 @@
+# --------------------------
+# IDE / Editor files
+# --------------------------
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs (IntelliJ, PyCharm, CLion, etc.)
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# --------------------------
+# OS / System files
+# --------------------------
+.DS_Store
+Thumbs.db
+
+# --------------------------
+# Temporary / backup files
+# --------------------------
+*.swp
+*.tmp
+*.bak
